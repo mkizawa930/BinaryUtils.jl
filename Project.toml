@@ -1,0 +1,4 @@
+name = "BinaryUtils"
+uuid = "3f6b85e2-f69a-4268-ad2e-624b14dd87b1"
+authors = ["mskz930 <m.kappa930@gmail.com>"]
+version = "0.1.0"
