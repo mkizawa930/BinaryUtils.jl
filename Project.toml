@@ -2,3 +2,9 @@ name = "BinaryUtils"
 uuid = "3f6b85e2-f69a-4268-ad2e-624b14dd87b1"
 authors = ["mskz930 <m.kappa930@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
